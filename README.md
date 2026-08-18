@@ -10,7 +10,7 @@ Estudiante de ciberseguridad orientado a **Blue Team** y **threat intelligence**
 
 ## Herramientas que he construido
 
-| Proyecto | Qué resuelve |
+| Proyecto | Qué hacen |
 |---|---|
 | [**Kit de Triaje de Phishing**](https://github.com/d-gomez-sec/kit-triaje-phishing) | Cuatro analizadores encadenados —cabeceras, dominios, enlaces y adjuntos— para decidir si un correo sospechoso es un fraude, sin subir nada a servicios de terceros |
 | [**Desglosador de Phishing**](https://github.com/d-gomez-sec/desglosador-phishing) | Señala las técnicas de manipulación de un mensaje y explica por qué funcionan, en lugar de dar un veredicto opaco |
