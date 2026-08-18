@@ -12,10 +12,10 @@ Estudiante de ciberseguridad orientado a **Blue Team** y **threat intelligence**
 
 | Proyecto | Qué resuelve |
 |---|---|
-| [**Kit de Triaje de Phishing**](https://github.com/[tu-usuario]/kit-triaje-phishing) | Cuatro analizadores encadenados —cabeceras, dominios, enlaces y adjuntos— para decidir si un correo sospechoso es un fraude, sin subir nada a servicios de terceros |
-| [**Desglosador de Phishing**](https://github.com/[tu-usuario]/desglosador-phishing) | Señala las técnicas de manipulación de un mensaje y explica por qué funcionan, en lugar de dar un veredicto opaco |
-| [**Egosurfing**](https://github.com/[tu-usuario]/egosurfing) | Auditoría estructurada de la propia huella digital, con informe y plan de reducción |
-| [**Confundibles Security+**](https://github.com/[tu-usuario]/confundibles-securityplus) | Entrena los pares de conceptos que más se confunden en el SY0-701 |
+| [**Kit de Triaje de Phishing**](https://github.com/d-gomez-sec/kit-triaje-phishing) | Cuatro analizadores encadenados —cabeceras, dominios, enlaces y adjuntos— para decidir si un correo sospechoso es un fraude, sin subir nada a servicios de terceros |
+| [**Desglosador de Phishing**](https://github.com/d-gomez-sec/desglosador-phishing) | Señala las técnicas de manipulación de un mensaje y explica por qué funcionan, en lugar de dar un veredicto opaco |
+| [**Egosurfing**](https://github.com/d-gomez-sec/egosurfing) | Auditoría estructurada de la propia huella digital, con informe y plan de reducción |
+| [**Confundibles Security+**](https://github.com/d-gomez-sec/confundibles-securityplus) | Entrena los pares de conceptos que más se confunden en el SY0-701 |
 
 Todas funcionan en local, sin dependencias externas y sin enviar datos a ningún servidor.
 
