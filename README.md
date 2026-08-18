@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola 👋
 
-<!--
-**d-gomez-sec/d-gomez-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de ciberseguridad orientado a **Blue Team** y **threat intelligence**. Construyo herramientas propias para entender de primera mano los problemas que resuelven.
 
-Here are some ideas to get you started:
+## En qué estoy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **CompTIA Security+ (SY0-701)** — en curso
+- Formación previa: Criminología y Ciberseguridad · Seguridad y Ciberinteligencia (USAL)
+- Siguiente: **BTL1** (Blue Team Level 1) y **CySA+**
+
+## Herramientas que he construido
+
+| Proyecto | Qué resuelve |
+|---|---|
+| [**Kit de Triaje de Phishing**](https://github.com/[tu-usuario]/kit-triaje-phishing) | Cuatro analizadores encadenados —cabeceras, dominios, enlaces y adjuntos— para decidir si un correo sospechoso es un fraude, sin subir nada a servicios de terceros |
+| [**Desglosador de Phishing**](https://github.com/[tu-usuario]/desglosador-phishing) | Señala las técnicas de manipulación de un mensaje y explica por qué funcionan, en lugar de dar un veredicto opaco |
+| [**Egosurfing**](https://github.com/[tu-usuario]/egosurfing) | Auditoría estructurada de la propia huella digital, con informe y plan de reducción |
+| [**Confundibles Security+**](https://github.com/[tu-usuario]/confundibles-securityplus) | Entrena los pares de conceptos que más se confunden en el SY0-701 |
+
+Todas funcionan en local, sin dependencias externas y sin enviar datos a ningún servidor.
+
+## Áreas de interés
+
+Análisis de correo y cabeceras · detección de suplantación de dominios · OSINT defensivo · análisis de logs · MITRE ATT&CK
