@@ -6,7 +6,7 @@ Estudiante de ciberseguridad orientado a **Blue Team** y **threat intelligence**
 
 - **CompTIA Security+ (SY0-701)** — en curso
 - Formación previa: Criminología y Ciberseguridad · Seguridad y Ciberinteligencia (USAL)
-- Siguiente: **BTL1** (Blue Team Level 1) y **CySA+**
+- Próximamente: **BTL1** (Blue Team Level 1) y **CySA+**
 
 ## Herramientas que he construido
 
