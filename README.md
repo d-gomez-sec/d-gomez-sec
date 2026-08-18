@@ -19,6 +19,7 @@ Estudiante de ciberseguridad orientado a **Blue Team** y **threat intelligence**
 
 Todas funcionan en local, sin dependencias externas y sin enviar datos a ningún servidor.
 
-## Áreas de interés
+## Hacia dónde voy
 
-Análisis de correo y cabeceras · detección de suplantación de dominios · OSINT defensivo · análisis de logs · MITRE ATT&CK
+En busca de ser parte del Blue Team/Analista SOC. Ahora mismo estoy estudiando Security+ y construyendo herramientas de triaje de correo;
+lo siguiente es análisis de logs, MITRE ATT&CK y BTL1.
