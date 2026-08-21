@@ -1,6 +1,6 @@
 # Hola 👋
 
-Estudiante de ciberseguridad orientado a **Blue Team** y **threat intelligence**. Construyo herramientas propias para entender de primera mano los problemas que resuelven.
+Estudiante de ciberseguridad orientado a Blue Team y análisis SOC. Desarrollo herramientas locales para triaje de phishing, análisis de ingeniería social y OSINT defensivo. Actualmente preparo CompTIA Security+ y profundizo en análisis de logs, MITRE ATT&CK y threat intelligence.
 
 ## En qué estoy
 
